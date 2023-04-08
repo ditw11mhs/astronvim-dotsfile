@@ -10,7 +10,6 @@ return {
   { import = "astrocommunity.pack.bash" },
   { import = "astrocommunity.pack.lua" },
   { import = "astrocommunity.colorscheme.tokyonight" },
-  { import = "astrocommunity.motion.leap-nvim" },
   { import = "astrocommunity.editing-support.dial-nvim" },
   { import = "astrocommunity.editing-support.neogen" },
   {
