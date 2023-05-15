@@ -1,5 +1,5 @@
 return {
-  { "wakatime/vim-wakatime",   lazy = false },
+  { "wakatime/vim-wakatime", lazy = false },
   { "pearofducks/ansible-vim", event = "User Astrofile" },
   {
     "phaazon/hop.nvim",
@@ -9,4 +9,9 @@ return {
     },
     cmd = "HopWord",
   },
+  {
+    "danymat/neogen",
+    opts = { languages = { python = { template = { annotation_convention = "google_docstrings" } } } },
+  },
+  { "lervag/vimtex", lazy = false },
 }

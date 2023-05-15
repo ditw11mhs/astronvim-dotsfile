@@ -15,10 +15,6 @@ return {
   { import = "astrocommunity.colorscheme.tokyonight" },
   { import = "astrocommunity.editing-support.dial-nvim" },
   { import = "astrocommunity.editing-support.neogen" },
-  {
-    "danymat/neogen",
-    opts = { languages = { python = { template = { annotation_convention = "google_docstrings" } } } },
-  },
   { import = "astrocommunity.editing-support.todo-comments-nvim" },
   { import = "astrocommunity.editing-support.refactoring-nvim" },
 }
