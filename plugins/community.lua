@@ -12,7 +12,7 @@ return {
   { import = "astrocommunity.syntax.hlargs-nvim" },
   { import = "astrocommunity.syntax.vim-sandwich" },
   { import = "astrocommunity.scrolling.mini-animate" },
-  { import = "astrocommunity.colorscheme.tokyonight" },
+  { import = "astrocommunity.colorscheme.tokyonight-nvim" },
   { import = "astrocommunity.editing-support.dial-nvim" },
   { import = "astrocommunity.editing-support.neogen" },
   { import = "astrocommunity.editing-support.todo-comments-nvim" },
